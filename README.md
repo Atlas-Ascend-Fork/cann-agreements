@@ -12,7 +12,7 @@ CANN社区致力于构建开放、共享的技术生态，并为开发者和用�
 
 **对于您在贡献代码过程中涉及的个人信息（Gitee ID、昵称、授权公开邮箱）将通过您的单独同意进行迁移：**
 * **未注册GitCode账号的用户，推荐您使用Gitee账号授权登录并注册GitCode账号，通过提交issue的方式完成《个人信息迁移同意书》的签署，方便CANN社区对您的历史贡献进行维护和管理。**
-* **已注册GitCode账号的用户，您的GitCode账号需要关联Gitee账号（https://gitcode.com/setting/account）， 再通过提交Issue的方式完成《个人信息迁移同意书》的签署，方便CANN社区对您的历史贡献进行维护和管理。**
+* **已注册GitCode账号的用户，您的GitCode账号需要关联Gitee账号(https://gitcode.com/setting/account)， 再通过提交Issue的方式完成《个人信息迁移同意书》的签署，方便CANN社区对您的历史贡献进行维护和管理。**
 
 **如果您有任何疑问可以咨询GitCode平台客服。**
 * **已签署前述《个人信息迁移同意书》的用户，您在Gitee平台提交的issue、PR等内容以及个人信息将迁移至 GitCode 平台，用户能在新平台上查看和管理这部分数据。**
